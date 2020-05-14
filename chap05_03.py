@@ -46,7 +46,7 @@
 # print("filter(under_3, output_b):",output_b)
 # print("filter(under_3, output_b):",list(output_b))
 
-file = open("test.txt", "w")
-file.write("Hello Python Programming...!")
+# file = open("./studyPython/./data/result.txt","w")
+# file.write("Hello Python Programming...!")
 
-file.close()
+# file.close()
